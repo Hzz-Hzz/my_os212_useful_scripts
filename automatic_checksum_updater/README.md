@@ -1,3 +1,10 @@
+## Syarat
+
+- GPG key anda harus tanpa password
+
+  
+  <br>
+
 ## cara memasang script ini
 
 Silahkan copy script tersebut ke dalam file: `/home/<username_anda>/_script_penting/_checksum_updater.sh`
