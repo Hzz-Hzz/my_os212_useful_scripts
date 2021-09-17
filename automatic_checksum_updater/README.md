@@ -55,6 +55,6 @@ Jika sudah, silahkan save dan keluar dari situ. Caranya, untuk editor vi, tekan 
 <br><br>
 
 
-Jika sudah, program kalian siap digunakan. Perhatikan bahwa program hanya berfungsi ketika linux kalian sedang dijalankan. Silahkan coba lakukan perubahan pada git anda, commit, dan push. Lalu tunggu 1 atau 2 menit, biarkan linux anda tetap berjalan. Lalu cek `https://github.com/<username_github_anda>/os212/commits/` dan lihat apakah ada commit terbaru yang formatnya seperti tanggal atau tidak (contoh `[18/09/2021 01:41:01]`). Jika ada, maka program sudah berjalan dengan baik. Selamat mencoba! 
+Jika sudah, program kalian siap digunakan. Perhatikan bahwa program hanya berfungsi ketika linux kalian sedang dijalankan. Silahkan coba lakukan perubahan pada git anda, commit, dan push. Lalu tunggu 1 atau 2 menit, biarkan linux anda tetap berjalan. Lalu cek `https://github.com/<username_github_anda>/os212/commits/` dan lihat apakah ada commit terbaru yang formatnya seperti tanggal atau tidak (contoh `18/09/2021 01:41:01`). Jika ada, maka program sudah berjalan dengan baik. Selamat mencoba! 
 
 :D
