@@ -28,11 +28,10 @@ Setelah itu copy paste kode tersebut, lalu tekan ctrl+o untuk save, dan ctrl+x u
 
 
 
-`cd '/home/<username_anda>/_script_penting'`
-
-
-
-`chmod +x _checksum_updater.sh`
+```
+cd '/home/<username_anda>/_script_penting'
+chmod +x _checksum_updater.sh
+```
 
 
 
@@ -43,9 +42,10 @@ Setelah itu copy paste kode tersebut, lalu tekan ctrl+o untuk save, dan ctrl+x u
 
 Akan ada banyak kalimat yang diawali #. Silahkan move cursor ke paling bawah dan tambahkanlah dua baris ini:
 
-`# checksum updater and signer`
-
-`*/1 * * * * /home/<username_anda>/_script_penting/_checksum_updater.sh`
+```
+# checksum updater and signer
+*/1 * * * * /home/<username_anda>/_script_penting/_checksum_updater.sh
+```
 
 
 Jika tidak bisa mengedit, mungkin kalian sedang menggunakan text editor vi. Jika dalam editor vi, coba tekan i untuk mengaktifkan mode mengedit.
