@@ -4,17 +4,30 @@ Silahkan copy script tersebut ke dalam file: `/home/<username_anda>/_script_pent
 
 
 Berikut ini caranya mencopy script tersebut ke directory tersebut:
+
 `cd '/home/<username_anda>'`
+
 `mkdir '_script_penting'`
+
 `cd _script_penting`
+
 `nano _checksum_updater.sh`
+
 Setelah itu copy paste kode tersebut, lalu tekan ctrl+o untuk save, dan ctrl+x untuk keluar setelah save. Jangan lupa mengubah beberapa variabel dari script tersebut sesuai kebutuhan. Biasanya cuman perlu mengubah variabel username
 
 
 
 Setelah itu kita perlu mengaktifkan izin untuk menjalankan file bash tersebut dengan cara:
+
+
+
 `cd '/home/<username_anda>/_script_penting'`
+
+
+
 `chmod +x _checksum_updater.sh`
+
+
 
 
 
