@@ -3,7 +3,7 @@
 Silahkan copy script tersebut ke dalam file: `/home/<username_anda>/_script_penting/_checksum_updater.sh`
 
 
-Berikut ini caranya mencopy script tersebut ke directory tersebut:
+#### Berikut ini caranya mencopy script tersebut ke directory tersebut:
 
 `cd '/home/<username_anda>'`
 
@@ -17,7 +17,11 @@ Setelah itu copy paste kode tersebut, lalu tekan ctrl+o untuk save, dan ctrl+x u
 
 
 
-Setelah itu kita perlu mengaktifkan izin untuk menjalankan file bash tersebut dengan cara:
+
+
+
+
+#### Setelah itu kita perlu mengaktifkan izin untuk menjalankan file bash tersebut dengan cara:
 
 
 
@@ -31,7 +35,7 @@ Setelah itu kita perlu mengaktifkan izin untuk menjalankan file bash tersebut de
 
 
 
-Setelah itu kita perlu mendaftarkan script tersebut supaya otomatis dijalankan oleh linux setiap 1 menit sekali. Berikut ini caranya:
+#### Setelah itu kita perlu mendaftarkan script tersebut supaya otomatis dijalankan oleh linux setiap 1 menit sekali. Berikut ini caranya:
 `crontab -e`
 
 Akan ada banyak kalimat yang diawali #. Silahkan move cursor ke paling bawah dan tambahkanlah baris:
@@ -41,6 +45,8 @@ Akan ada banyak kalimat yang diawali #. Silahkan move cursor ke paling bawah dan
 
 Jika tidak bisa mengedit, mungkin kalian sedang menggunakan text editor vi. Coba tekan i sebelum mengedit.
 Jika sudah, silahkan save dan keluar dari situ. Caranya, untuk editor vi, tekan escape > titik dua > w > q > enter. Untuk nano, tekan ctrl+o > enter > ctrl+x.
+
+
 
 
 
