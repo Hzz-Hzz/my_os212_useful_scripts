@@ -2,6 +2,7 @@
 
 Silahkan copy script tersebut ke dalam file: `/home/<username_anda>/_script_penting/_checksum_updater.sh`
 
+<br><br>
 
 #### Berikut ini caranya mencopy script tersebut ke directory tersebut:
 
@@ -17,7 +18,7 @@ Setelah itu copy paste kode tersebut, lalu tekan ctrl+o untuk save, dan ctrl+x u
 
 
 
-
+<br><br>
 
 
 
@@ -33,7 +34,7 @@ Setelah itu copy paste kode tersebut, lalu tekan ctrl+o untuk save, dan ctrl+x u
 
 
 
-
+<br><br>
 
 #### Setelah itu kita perlu mendaftarkan script tersebut supaya otomatis dijalankan oleh linux setiap 1 menit sekali. Berikut ini caranya:
 `crontab -e`
@@ -49,7 +50,7 @@ Jika tidak bisa mengedit, mungkin kalian sedang menggunakan text editor vi. Coba
 Jika sudah, silahkan save dan keluar dari situ. Caranya, untuk editor vi, tekan escape > titik dua > w > q > enter. Untuk nano, tekan ctrl+o > enter > ctrl+x.
 
 
-
+<br><br>
 
 
 Jika sudah, program kalian siap digunakan. Perhatikan bahwa program hanya berfungsi ketika linux kalian sedang dijalankan. Silahkan coba lakukan perubahan pada git anda, commit, dan push. Lalu tunggu 1 atau 2 menit, biarkan linux anda tetap berjalan. Lalu cek `https://github.com/<username_github_anda>/os212/commits/` dan lihat apakah ada commit terbaru yang formatnya seperti tanggal atau tidak (contoh `[18/09/2021 01:41:01]`). Jika ada, maka program sudah berjalan dengan baik. Selamat mencoba! 
