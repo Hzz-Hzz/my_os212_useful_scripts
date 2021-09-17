@@ -38,7 +38,7 @@ Setelah itu copy paste kode tersebut, lalu tekan ctrl+o untuk save, dan ctrl+x u
 #### Setelah itu kita perlu mendaftarkan script tersebut supaya otomatis dijalankan oleh linux setiap 1 menit sekali. Berikut ini caranya:
 `crontab -e`
 
-Akan ada banyak kalimat yang diawali #. Silahkan move cursor ke paling bawah dan tambahkanlah baris:
+Akan ada banyak kalimat yang diawali #. Silahkan move cursor ke paling bawah dan tambahkanlah dua baris ini:
 
 `# checksum updater and signer`
 
