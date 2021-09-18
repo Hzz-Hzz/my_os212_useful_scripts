@@ -46,6 +46,7 @@ string_hasil_cek=$(sha256sum -c $SHA | grep -oP '\S+$')
 
 need_update=0
 
+# mengecek apakah checksum saat ini ada yang invalid atau tidak
 while read line 
 do
     if [ "$line" != "OK" ]; then
@@ -57,6 +58,24 @@ done <<< "$string_hasil_cek"
 
 
 echo 'need_update='$need_update  >> $script_log_path
+
+
+# mengecek apakah hasil checksum-nya akan berbeda atau tidak. Menghandle kasus ketika
+# kita menambahkan file baru yang formatnya my*.txt (misalnya mynotes.txt)
+new_sha=$(sha256sum $FILES)
+prev_sha=$(cat $SHA)
+if [ "$new_sha" != "$prev_sha" ]; then
+    echo 'new_sha and prev_sha is not equal. Updating'  >> $script_log_path
+    echo ''  >> $script_log_path
+    echo "$new_sha"  >> $script_log_path
+    echo ''  >> $script_log_path
+    echo "$prev_sha"  >> $script_log_path
+    echo ''  >> $script_log_path
+    
+    need_update=1  # we will update it
+    echo 'need_update='$need_update  >> $script_log_path
+    echo ''  >> $script_log_path
+fi
 
 
 if (( need_update != 0 )); then
