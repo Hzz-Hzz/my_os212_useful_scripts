@@ -25,7 +25,8 @@ pip install requests
 
 <br>
 Jika ada error lainnya pada script, bisa menghubungi aku atau membuka Issues baru pada repository github ini. 
-<br>
+
+<br><br>
 
 Selamat mencoba :D
 
