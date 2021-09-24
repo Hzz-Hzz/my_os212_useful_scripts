@@ -4,7 +4,7 @@ Penasaran siapa saja yang men-vote anda? Namun lelah kalau harus ngecek satu-per
 
 Rank tracker merupakan sebuah script yang ditulis dalam python. Gunanya adalah supaya teman-teman bisa lebih mudah dalam mengecek rank tanpa harus repot-repot mengecek halaman github satu-per-satu. 
 
-
+<br>
 
 ### Langkah Menjalankan /  Menggunakan
 
@@ -15,7 +15,7 @@ Rank tracker merupakan sebuah script yang ditulis dalam python. Gunanya adalah s
 
 Jika ada masalah koneksi saat menjalankan, mungkin perlu mencoba memakai VPN. Misalnya Telkomsel kadang sulit untuk mengakses github page.
 
-
+<br>
 
 Jika ada masalah karena library not found, cukup jalankan perintah ini pada command prompt (windows):
 
@@ -23,9 +23,9 @@ Jika ada masalah karena library not found, cukup jalankan perintah ini pada comm
 pip install requests
 ```
 
-
+<br>
 Jika ada error lainnya pada script, bisa menghubungi aku atau membuka Issues baru pada repository github ini. 
-
+<br>
 
 Selamat mencoba :D
 
