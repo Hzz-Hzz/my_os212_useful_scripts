@@ -1,0 +1,877 @@
+aaqil-a (1):
+    W01 (1) = WhReen
+
+aaqila-a (1):
+    W03 (1) = tsabitasarah
+
+abdulrahman01uiacid (3):
+    W03 (2) = teukufaiz, veloraine
+    W02 (1) = thoriqaulia163
+
+abinbintang (6):
+    W03 (2) = teukufaiz, valordra
+    W02 (3) = abdulrahman01uiacid, yuniaharmulyati, zetaprawira7
+    W01 (1) = WhReen
+
+adelinesanusie (4):
+    W03 (2) = trmazayal, valordra
+    W02 (2) = aaqil-a, yudha-haris
+
+adellamadea (10):
+    W03 (6) = tianpramesti, veloraine, vincentsuryakim, virdianhrn, vnctkevin, whenwe177
+    W02 (3) = abinbintang, thoriqaulia163, zetaprawira7
+    W01 (1) = WhReen
+
+adietyachristian (4):
+    W03 (1) = vincentsuryakim
+    W02 (3) = aaqil-a, abinbintang, yudha-haris
+
+adillahptr (3):
+    W03 (1) = virdianhrn
+    W02 (2) = abdulrahman01uiacid, adellamadea
+
+adirasayidina (3):
+    W03 (1) = tsabitasarah
+    W02 (2) = aaqil-a, abdulrahman01uiacid
+
+adnptrpw (8):
+    W03 (4) = veloraine, vincentsuryakim, vnctkevin, winaldoamadea
+    W02 (4) = adietyachristian, adirasayidina, yuniaharmulyati, zetaprawira7
+
+aghoz-i (6):
+    W03 (2) = virdianhrn, whenwe177
+    W02 (4) = adelinesanusie, adillahptr, najmialy, WhReen
+
+agilghif (7):
+    W03 (3) = winaldoamadea, yahyagolds23, yudha-haris
+    W02 (4) = abinbintang, adelinesanusie, aghoz-i, Midebar
+
+agnesaudya (3):
+    W02 (3) = adirasayidina, aghoz-i, WhReen
+
+ahmadrafidev (15):
+    W03 (7) = aaqil-a, abdulrahman01uiacid, whenwe177, yahyagolds23, yudha-haris, yuniaharmulyati, zetaprawira7
+    W02 (8) = adelinesanusie, adellamadea, adillahptr, adirasayidina, adnptrpw, aghoz-i, agilghif, WhReen
+
+ajierestus (12):
+    W03 (4) = vnctkevin, winaldoamadea, yuniaharmulyati, zetaprawira7
+    W02 (8) = adellamadea, adietyachristian, adillahptr, adnptrpw, aghoz-i, agilghif, agnesaudya, ahmadrafidev
+
+akbarmaliki10 (5):
+    W03 (2) = yahyagolds23, yudha-haris
+    W02 (3) = adietyachristian, aghoz-i, agnesaudya
+
+akmalgomal3 (4):
+    W03 (2) = aaqil-a, adelinesanusie
+    W02 (2) = aghoz-i, ajierestus
+
+aldariaski (4):
+    W03 (3) = abdulrahman01uiacid, akmalgomal3, yuniaharmulyati
+    W02 (1) = aghoz-i
+
+alfatihaditya (7):
+    W03 (2) = abdulrahman01uiacid, abinbintang
+    W02 (4) = adnptrpw, aghoz-i, ahmadrafidev, ajierestus
+    W01 (1) = aldariaski
+
+alinthok (2):
+    W02 (2) = aghoz-i, agnesaudya
+
+almiramaharani (7):
+    W03 (4) = adellamadea, adietyachristian, adirasayidina, zetaprawira7
+    W02 (3) = aghoz-i, agilghif, akmalgomal3
+
+alyazharr (7):
+    W03 (7) = aaqil-a, abinbintang, adelinesanusie, adietyachristian, adillahptr, adirasayidina, akmalgomal3
+
+amalianahda (6):
+    W03 (4) = abinbintang, adellamadea, adietyachristian, adirasayidina
+    W02 (2) = almiramaharani, alyazharr
+
+ana117 (6):
+    W03 (4) = adelinesanusie, adillahptr, agnesaudya, akmalgomal3
+    W02 (2) = ahmadrafidev, alyazharr
+
+anandafadhil (7):
+    W03 (3) = adellamadea, agilghif, ahmadrafidev
+    W02 (4) = ajierestus, akmalgomal3, alfatihaditya, ana117
+
+anantaristik (6):
+    W03 (4) = agilghif, agnesaudya, ahmadrafidev, ajierestus
+    W02 (2) = Alinthok, amalianahda
+
+anantus (9):
+    W03 (2) = adnptrpw, akbarmaliki10
+    W02 (6) = akmalgomal3, alfatihaditya, Alinthok, almiramaharani, alyazharr, ana117
+    W01 (1) = aldariaski
+
+anastasiaaaudi (1):
+    W03 (1) = adnptrpw
+
+anastasiaaaudiw (8):
+    W03 (2) = ajierestus, akbarmaliki10
+    W02 (5) = almiramaharani, alyazharr, amalianahda, anandafadhil, anantaristik
+    W01 (1) = aldariaski
+
+andhi30 (9):
+    W03 (3) = adnptrpw, agilghif, akbarmaliki10
+    W02 (6) = aldariaski, alfatihaditya, Alinthok, amalianahda, anandafadhil, anantaristik
+
+andhikalfariz (3):
+    W02 (3) = anantus, Bimabara, rasyidmi20
+
+anindyasasriya (6):
+    W03 (3) = ahmadrafidev, alfatihaditya, Alinthok
+    W02 (3) = alyazharr, anantus, andhi30
+
+anindyasasrya (1):
+    W02 (1) = anastasiaaaudiw
+
+ardanisar (8):
+    W03 (3) = alfatihaditya, Alinthok, almiramaharani
+    W02 (5) = aldariaski, alyazharr, ana117, anastasiaaaudiw, andhi30
+
+ardhanidzaky (3):
+    W03 (1) = agnesaudya
+    W02 (2) = anindyasasriya, ardanisar
+
+ariiesaka (11):
+    W03 (3) = alfatihaditya, almiramaharani, amalianahda
+    W02 (8) = aldariaski, anandafadhil, anantaristik, anantus, anindyasasriya, ardanisar, ardhanidzaky, elfraera
+
+aryafchandra (1):
+    W03 (1) = ajierestus
+
+asyraf54 (4):
+    W03 (1) = ariiesaka
+    W02 (3) = andhi30, ariiesaka, aryafchandra
+
+athaqilmakarim (15):
+    W03 (8) = Alinthok, almiramaharani, amalianahda, ana117, anandafadhil, anantaristik, ariiesaka, najmialy
+    W02 (7) = anastasiaaaudiw, anindyasasriya, ardanisar, ardhanidzaky, ariiesaka, aryafchandra, asyraf54
+
+aveliaa (7):
+    W03 (2) = anantaristik, anastasiaaaudiw
+    W02 (5) = ardhanidzaky, ariiesaka, asyraf54, athaqilmakarim, atifahnabilla
+
+azzam2912 (2):
+    W02 (2) = atifahnabilla, aveliaa
+
+bienreti (5):
+    W03 (5) = ana117, anastasiaaaudiw, andhi30, anindyasasriya, ariiesaka
+
+bilhudapramana (11):
+    W03 (5) = amalianahda, anandafadhil, anantaristik, anantus, andhi30
+    W02 (6) = andhikalfariz, aryafchandra, asyraf54, athaqilmakarim, aveliaa, azuka-p
+
+billhudapramana (1):
+    W03 (1) = anastasiaaaudiw
+
+billyvande (2):
+    W03 (1) = anantus
+    W02 (1) = andhikalfariz
+
+bimabara (9):
+    W03 (5) = anandafadhil, anantus, andhi30, ardanisar, rasyidmi20
+    W02 (4) = andhikalfariz, azuka-p, bienreti, billyvande
+
+bintangaazrie (1):
+    W02 (1) = azzam2912
+
+bintangazrie (1):
+    W02 (1) = azzam2912
+
+bintangazriel (4):
+    W03 (1) = Bimabara
+    W02 (3) = athaqilmakarim, atifahnabilla, bienreti
+
+bintangns (1):
+    W03 (1) = ardhanidzaky
+
+bisma404 (4):
+    W03 (1) = anindyasasriya
+    W02 (3) = andhikalfariz, bilhudapramana, bintangns
+
+bryamahdavikhia (1):
+    W02 (1) = azzam2912
+
+bryanmahdavikhia (11):
+    W03 (6) = anindyasasriya, ardhanidzaky, aryafchandra, asyraf54, athaqilmakarim, bintangns
+    W02 (5) = aveliaa, azuka-p, azzam2912, bilhudapramana, bintangazriel
+
+bryanttanujaya (2):
+    W03 (1) = athaqilmakarim
+    W02 (1) = bilhudapramana
+
+chreploe (14):
+    W03 (10) = ana117, ardanisar, aryafchandra, asyraf54, athaqilmakarim, atifahnabilla, aveliaa, azuka-p, Bimabara, bintangns
+    W02 (4) = azzam2912, azzam2912, billyvande, bisma404
+
+chrisbagas (8):
+    W03 (5) = ardanisar, aryafchandra, asyraf54, atifahnabilla, bintangns
+    W02 (3) = bienreti, bintangazriel, Chreploe
+
+ciellaindria28 (8):
+    W03 (3) = ardhanidzaky, azuka-p, Bimabara
+    W02 (5) = billyvande, bintangazriel, bisma404, bryanmahdavikhia, chrisbagas
+
+cynthiamutiara01 (1):
+    W02 (1) = bintangns
+
+dafin678 (1):
+    W03 (1) = bilhudapramana
+
+dananakbar (3):
+    W02 (3) = bintangns, bisma404, bryanttanujaya
+
+david-alexander01 (9):
+    W03 (6) = atifahnabilla, aveliaa, bienreti, bilhudapramana, billyvande, bintangazriel
+    W02 (3) = bryanmahdavikhia, Chreploe, ciellaindria28
+
+determinedguy (13):
+    W03 (6) = aveliaa, azuka-p, bienreti, billyvande, bintangazriel, bisma404
+    W02 (7) = bryanmahdavikhia, bryanttanujaya, Chreploe, chrisbagas, ciellaindria28, david-alexander01, debramz
+
+detirminedguy (1):
+    W03 (1) = chrisbagas
+
+deyuna (7):
+    W03 (2) = bryanmahdavikhia, chrisbagas
+    W02 (5) = bryanttanujaya, ciellaindria28, david-alexander01, debramz, determinedguy
+
+dhekmass12 (8):
+    W03 (6) = bienreti, bintangazriel, bisma404, bryanmahdavikhia, bryanttanujaya, chrisbagas
+    W02 (2) = chrisbagas, debramz
+
+dickynasje (3):
+    W03 (2) = Chreploe, debramz
+    W02 (1) = determinedguy
+
+dimas-id (3):
+    W03 (1) = debramz
+    W02 (2) = dafin678, dhekmass12
+
+dimasichsanul (10):
+    W03 (7) = bilhudapramana, billyvande, bisma404, bryanmahdavikhia, bryanttanujaya, Chreploe, debramz
+    W02 (3) = david-alexander01, deyuna, dickynasje
+
+dindasrg (4):
+    W03 (3) = ciellaindria28, ciellaindria28, dafin678
+    W02 (1) = deyuna
+
+dixonfrederick (2):
+    W03 (1) = ciellaindria28
+    W02 (1) = dhekmass12
+
+dzikriqalampacil (10):
+    W03 (3) = bryanttanujaya, Chreploe, david-alexander01
+    W02 (7) = determinedguy, deyuna, dhekmass12, Dimasichsanul, dimas-id, dixonfrederick, Dristand
+
+ealiansyah (2):
+    W02 (2) = dickynasje, dzikriqalampacil
+
+efsrdi (2):
+    W02 (2) = Dimasichsanul, Dristand
+
+elfraera (9):
+    W03 (4) = dafin678, david-alexander01, deyuna, efsrdi
+    W02 (5) = dimas-id, dindasrg, dixonfrederick, Dristand, efsrdi
+
+elghifari (1):
+    W02 (1) = dickynasje
+
+erickezrandy274 (14):
+    W03 (6) = ciellaindria28, dafin678, david-alexander01, determinedguy, dhekmass12, efsrdi
+    W02 (8) = Dimasichsanul, dimas-id, dindasrg, dixonfrederick, dzikriqalampacil, ealiansyah, efsrdi, elghifari
+
+evan-aurelrius (3):
+    W03 (2) = determinedguy, dickynasje
+    W02 (1) = dindasrg
+
+ezekielnicholas (7):
+    W03 (2) = dhekmass12, ErickEzrandy274
+    W02 (5) = dzikriqalampacil, ealiansyah, efsrdi, ErickEzrandy274, evan-aurelrius
+
+ezrapsh (5):
+    W03 (4) = Dimasichsanul, dimas-id, dindasrg, efsrdi
+    W02 (1) = evan-aurelrius
+
+farelmapm (2):
+    W03 (1) = determinedguy
+    W02 (1) = ealiansyah
+
+farelmd (3):
+    W03 (2) = deyuna, Dristand
+    W02 (1) = elghifari
+
+farizzzz (3):
+    W03 (2) = deyuna, dickynasje
+    W02 (1) = farelmapm
+
+fathanm10 (10):
+    W03 (6) = dhekmass12, dickynasje, dindasrg, dixonfrederick, ealiansyah, farelmapm
+    W02 (4) = elghifari, ErickEzrandy274, ezekielnicholas, farelmd
+
+fauzandfr (6):
+    W03 (4) = Dimasichsanul, dimas-id, Dristand, ErickEzrandy274
+    W02 (2) = EzraPsh, farelmd
+
+fauzanrizqan123 (9):
+    W03 (6) = Dimasichsanul, dimas-id, dindasrg, dzikriqalampacil, ealiansyah, ErickEzrandy274
+    W02 (3) = ErickEzrandy274, EzraPsh, farelmd
+
+fauzanrizwan123 (1):
+    W02 (1) = evan-aurelrius
+
+fauznandri (4):
+    W03 (2) = elghifari, farelmapm
+    W02 (2) = ezekielnicholas, fathanm10
+
+fawzakin (13):
+    W03 (6) = dixonfrederick, Dristand, dzikriqalampacil, elfraera, elghifari, evan-aurelrius
+    W02 (7) = ezekielnicholas, Fael31, farelmapm, fathanm10, fauzandfr, fauzanrizqan123, fauznandri
+
+feibs (8):
+    W03 (4) = dixonfrederick, dzikriqalampacil, evan-aurelrius, farelmapm
+    W02 (4) = EzraPsh, Fael31, fauzanrizqan123, fawzakin
+
+ferdifdi (4):
+    W03 (2) = evan-aurelrius, EzraPsh
+    W02 (2) = Fael31, Feibs
+
+ferdinandamos (4):
+    W03 (3) = ezekielnicholas, EzraPsh, Fael31
+    W02 (1) = farelmapm
+
+figoathallah (9):
+    W03 (3) = ealiansyah, elghifari, EzraPsh
+    W02 (6) = fathanm10, fauzandfr, fauzanrizqan123, fawzakin, Feibs, ferdinandamos
+
+fikriazain (6):
+    W03 (2) = ezekielnicholas, Fael31
+    W02 (4) = fauznandri, fawzakin, ferdifdi, figoathallah
+
+firlandiansyari (2):
+    W02 (2) = fauzandfr, fikriazain
+
+galbunsb (1):
+    W03 (1) = NicoFathiRizqi
+
+gloanda (4):
+    W03 (2) = ezekielnicholas, fathanm10
+    W02 (2) = ferdifdi, ferdinandamos
+
+gosimd25 (1):
+    W03 (1) = NicoFathiRizqi
+
+haddad (1):
+    W03 (1) = fauzanrizqan123
+
+haddad9 (8):
+    W03 (2) = farelmd, fathanm10
+    W02 (6) = fauznandri, Feibs, figoathallah, fikriazain, firlandiansyari, gbhisma
+
+haikalrmn (3):
+    W03 (1) = fauzandfr
+    W02 (2) = ferdinandamos, gbhisma
+
+hakimamarullah (11):
+    W03 (5) = Fael31, fathanm10, fauzanrizqan123, fauznandri, Feibs
+    W02 (6) = ferdifdi, figoathallah, firlandiansyari, Gloanda, hafidzsulistyan, haikalrmn
+
+halifmuhammad (8):
+    W03 (4) = farelmd, fauznandri, Feibs, ferdifdi
+    W02 (4) = fikriazain, gbhisma, Gloanda, haikalrmn
+
+hamonangann (5):
+    W03 (2) = farelmd, Feibs
+    W02 (3) = firlandiansyari, Gloanda, halifmuhammad
+
+han-zalwi (2):
+    W03 (2) = fauzandfr, ferdinandamos
+
+hanifsyuaib (7):
+    W03 (5) = fauzandfr, fauzanrizqan123, fauznandri, ferdifdi, figoathallah
+    W02 (1) = hafidzsulistyan
+    W01 (1) = hakimamarullah
+
+haseaa (2):
+    W03 (2) = ferdinandamos, gbhisma
+
+heidi240602 (3):
+    W03 (2) = elfraera, haseaa
+    W02 (1) = haseaa
+
+huanis (9):
+    W03 (2) = firlandiansyari, haseaa
+    W02 (6) = hafidzsulistyan, haikalrmn, halifmuhammad, hamonangann, hanifsyuaib, haseaa
+    W01 (1) = hakimamarullah
+
+hzz-hzz (10):
+    W03 (4) = ferdifdi, figoathallah, Gloanda, haddad9
+    W02 (5) = halifmuhammad, hamonangann, hanifsyuaib, Han-Zalwi, huanis
+    W01 (1) = hakimamarullah
+
+icarustrench (5):
+    W03 (4) = fikriazain, firlandiansyari, haddad9, hafidzsulistyan
+    W02 (1) = huanis
+
+ikram1 (2):
+    W03 (1) = johanesrakatn
+    W02 (1) = Kevinrazaqa
+
+ilhanfn (2):
+    W03 (1) = icarustrench
+    W02 (1) = Han-Zalwi
+
+immanuelnadeak (3):
+    W03 (3) = ferdinandamos, figoathallah, icarustrench
+
+indiradr (15):
+    W03 (9) = fikriazain, firlandiansyari, gbhisma, Gloanda, haddad9, hafidzsulistyan, haikalrmn, haseaa, icarustrench
+    W02 (6) = hakimamarullah, hamonangann, hanifsyuaib, haseaa, huanis, immanuelnadeak
+
+indramahaarta (7):
+    W03 (3) = fikriazain, Gloanda, icarustrench
+    W02 (4) = hakimamarullah, Han-Zalwi, Hzz-Hzz, ilhanfn
+
+intervallie (3):
+    W03 (3) = halifmuhammad, hamonangann, icarustrench
+
+iqbalasrif (2):
+    W03 (2) = gbhisma, icarustrench
+
+irhaml (3):
+    W03 (2) = Han-Zalwi, icarustrench
+    W02 (1) = Hzz-Hzz
+
+irsyadcad (2):
+    W03 (2) = Han-Zalwi, icarustrench
+
+ivanphanderson (13):
+    W03 (5) = hafidzsulistyan, haikalrmn, hamonangann, hanifsyuaib, icarustrench
+    W02 (8) = hakimamarullah, Hzz-Hzz, ilhanfn, indiradr, indramahaarta, intervallie, iqbalasrif, Irhaml
+
+izzannuf (11):
+    W03 (6) = haikalrmn, halifmuhammad, hamonangann, hanifsyuaib, Han-Zalwi, icarustrench
+    W02 (5) = ilhanfn, immanuelnadeak, indiradr, indramahaarta, intervallie
+
+jasonwidodo (9):
+    W03 (3) = halifmuhammad, hanifsyuaib, huanis
+    W02 (6) = immanuelnadeak, indramahaarta, intervallie, iqbalasrif, Irhaml, ivanphanderson
+
+jeremychr (5):
+    W03 (2) = Hzz-Hzz, ilhanfn
+    W02 (3) = Irsyadcad, izzannuf, jasonwidodo
+
+jeromeez (6):
+    W03 (2) = ilhanfn, immanuelnadeak
+    W02 (4) = indiradr, iqbalasrif, jasonwidodo, jeremychr
+
+johaneschristian (7):
+    W03 (4) = Hzz-Hzz, ilhanfn, immanuelnadeak, indiradr
+    W02 (3) = ivanphanderson, izzannuf, jeromeez
+
+johanesrakatin (1):
+    W02 (1) = jeromeez
+
+johanesrakatn (6):
+    W03 (2) = huanis, Hzz-Hzz
+    W02 (4) = Irhaml, ivanphanderson, jasonwidodo, johaneschristian
+
+joyamanda (1):
+    W02 (1) = Irsyadcad
+
+kanziebub (11):
+    W03 (5) = huanis, immanuelnadeak, indramahaarta, iqbalasrif, Irhaml
+    W02 (6) = Irsyadcad, jeromeez, johaneschristian, johanesrakatn, joshste, joyamanda
+
+kennjthn (6):
+    W03 (3) = indiradr, intervallie, ivanphanderson
+    W02 (3) = izzannuf, jeremychr, johanesrakatn
+
+kenzieka (1):
+    W03 (1) = izzannuf
+
+kevinrazaqa (14):
+    W03 (7) = indiradr, indramahaarta, intervallie, iqbalasrif, ivanphanderson, izzannuf, jasonwidodo
+    W02 (7) = Irsyadcad, jeremychr, johaneschristian, joshste, kanziebub, kartikadipra, KenzieKA
+
+kevinrazqa (1):
+    W02 (1) = joyamanda
+
+keyza-asyadda (1):
+    W02 (1) = Kevinrazaqa
+
+koningmalik (3):
+    W03 (3) = intervallie, iqbalasrif, jeromeez
+
+konongmalik (1):
+    W03 (1) = indramahaarta
+
+krzki (6):
+    W03 (1) = Irhaml
+    W02 (5) = Irsyadcad, johanesrakatn, joshste, joyamanda, kanziebub
+
+larry-pult (1):
+    W03 (1) = izzannuf
+
+leonardfelix (5):
+    W03 (3) = Irhaml, jeromeez, johaneschristian
+    W02 (2) = kanziebub, KennJthn
+
+lkram1 (3):
+    W03 (1) = jeremychr
+    W02 (2) = kartikadipra, KennJthn
+
+luthfibalaka (14):
+    W03 (8) = ivanphanderson, jasonwidodo, jeromeez, johaneschristian, johanesrakatn, joshste, joyamanda, kanziebub
+    W02 (6) = Irsyadcad, kartikadipra, KennJthn, KenzieKA, krzki, leonardfelix
+
+marcellinoco (4):
+    W03 (2) = jeremychr, KennJthn
+    W02 (2) = KenzieKA, Kevinrazaqa
+
+margarethastellaa (11):
+    W03 (9) = jasonwidodo, jeremychr, joshste, joyamanda, kanziebub, kartikadipra, KennJthn, KenzieKA, rasyidmi20
+    W02 (2) = mahdiwafi, MarcellinoCO
+
+markusleonardwijaya (1):
+    W02 (1) = margarethastellaa
+
+matthewparluhutan (14):
+    W03 (8) = johaneschristian, johanesrakatn, joyamanda, kanziebub, kartikadipra, KenzieKA, Kevinrazaqa, Keyza-asyadda
+    W02 (6) = krzki, leonardfelix, lkram1, MarcellinoCO, margarethastellaa, MarkusLeonardWijaya
+
+mbaauy (8):
+    W03 (3) = kartikadipra, KennJthn, KenzieKA
+    W02 (4) = KoningMalik, krzki, leonardfelix, mahdiwafi
+    W01 (1) = matthewparluhutan
+
+meta502 (8):
+    W03 (4) = joshste, Kevinrazaqa, Keyza-asyadda, krzki
+    W02 (3) = lkram1, margarethastellaa, mbaauy
+    W01 (1) = matthewparluhutan
+
+mfadhlan98 (1):
+    W02 (1) = Meta502
+
+mfikriharyanto (13):
+    W03 (4) = Keyza-asyadda, krzki, larry-pult, leonardfelix
+    W02 (8) = KoningMalik, lkram1, mahdiwafi, MarcellinoCO, MarkusLeonardWijaya, mbaauy, Meta502, mfadhlan98
+    W01 (1) = matthewparluhutan
+
+mikasrahwono (1):
+    W02 (1) = KoningMalik
+
+mnfl44 (6):
+    W03 (3) = Kevinrazaqa, larry-pult, leonardfelix
+    W02 (3) = MarkusLeonardWijaya, mfadhlan98, MikaSRahwono
+
+mohammadbramantyo (5):
+    W03 (3) = krzki, luthfibalaka, mahdiwafi
+    W02 (2) = mbaauy, Meta502
+
+mughniwibisono (2):
+    W03 (2) = lkram1, mahdiwafi
+
+muhammadevin (9):
+    W03 (5) = KoningMalik, larry-pult, leonardfelix, margarethastellaa, MarkusLeonardWijaya
+    W02 (4) = mfadhlan98, michelleshie, Midebar, mohammadbramantyo
+
+muhammadfarasbaginda (4):
+    W02 (4) = matthewparluhutan, mfikriharyanto, mnfl44, muhammadevin
+
+muhammadhaqqi (8):
+    W03 (4) = lkram1, luthfibalaka, MarkusLeonardWijaya, Meta502
+    W02 (4) = mfikriharyanto, michelleshie, MikaSRahwono, mohammadbramantyo
+
+muhammadrazif (14):
+    W03 (8) = KoningMalik, lkram1, luthfibalaka, mahdiwafi, margarethastellaa, mbaauy, mfadhlan98, muhammadevin
+    W02 (6) = matthewparluhutan, mfikriharyanto, michelleshie, mnfl44, MughniWibisono, muhammadhaqqi
+
+muhammadzakiashshidiqi (4):
+    W03 (1) = margarethastellaa
+    W02 (3) = MikaSRahwono, mnfl44, muhammadhaqqi
+
+mutiarazzahra (3):
+    W03 (1) = KoningMalik
+    W02 (1) = MughniWibisono
+    W01 (1) = muhammadfarasbaginda
+
+myticalcat (10):
+    W03 (4) = mbaauy, Meta502, mfadhlan98, michelleshie
+    W02 (6) = mohammadbramantyo, muhammadevin, muhammadrazif, muhammadzakiashshidiqi, mune-kyun, mutiarazzahra
+
+nafhansyandana (4):
+    W03 (3) = MarkusLeonardWijaya, mfikriharyanto, mnfl44
+    W02 (1) = MughniWibisono
+
+najmialy (7):
+    W03 (3) = Meta502, michelleshie, muhammadevin
+    W02 (3) = matthewparluhutan, nafhansyandana, rasyidmi20
+    W01 (1) = muhammadfarasbaginda
+
+nakarz (9):
+    W03 (5) = mbaauy, mnfl44, mohammadbramantyo, MughniWibisono, muhammadevin
+    W02 (4) = muhammadevin, muhammadrazif, mune-kyun, myticalcat
+
+naufalpram (15):
+    W03 (7) = mfadhlan98, mfikriharyanto, michelleshie, MikaSRahwono, mnfl44, mohammadbramantyo, MughniWibisono
+    W02 (7) = muhammadhaqqi, muhammadrazif, muhammadzakiashshidiqi, mune-kyun, mutiarazzahra, myticalcat, nafhansyandana
+    W01 (1) = muhammadfarasbaginda
+
+naufalrafiathl (2):
+    W03 (2) = mfikriharyanto, mohammadbramantyo
+
+nichoje (10):
+    W03 (3) = MikaSRahwono, MughniWibisono, muhammadrazif
+    W02 (7) = muhammadfarasbaginda, muhammadzakiashshidiqi, mutiarazzahra, nafhansyandana, nakarz, naufalpram, naufalrafiathl
+
+nicofathirizqi (2):
+    W02 (2) = navalgaze, nichoje
+
+orelar (13):
+    W03 (6) = MikaSRahwono, muhammadhaqqi, muhammadrazif, muhammadzakiashshidiqi, mune-kyun, NicoFathiRizqi
+    W02 (7) = myticalcat, nakarz, naufalpram, naufalrafiathl, navalgaze, nichoje, NicoFathiRizqi
+
+paskalisabhista (1):
+    W02 (1) = NicoFathiRizqi
+
+paskalisabista (1):
+    W03 (1) = NicoFathiRizqi
+
+pragusga25 (13):
+    W03 (6) = muhammadhaqqi, muhammadrazif, muhammadzakiashshidiqi, mutiarazzahra, myticalcat, NicoFathiRizqi
+    W02 (7) = muhammadfarasbaginda, nakarz, naufalpram, naufalrafiathl, NicoFathiRizqi, orelar, paskalisabhista
+
+pramudiptha (2):
+    W03 (1) = NicoFathiRizqi
+    W02 (1) = NicoFathiRizqi
+
+pramudyawibisono (5):
+    W03 (1) = NicoFathiRizqi
+    W02 (4) = muhammadfarasbaginda, navalgaze, NicoFathiRizqi, pragusga25
+
+pulsapaur (2):
+    W03 (1) = NicoFathiRizqi
+    W02 (1) = NicoFathiRizqi
+
+pulsapur (1):
+    W02 (1) = nichoje
+
+qalbunsb (11):
+    W03 (6) = muhammadhaqqi, mune-kyun, myticalcat, nafhansyandana, naufalpram, paskalisabhista
+    W02 (5) = dafin678, NicoFathiRizqi, orelar, paskalisabhista, pramudyawibisono
+
+qosimd25 (5):
+    W03 (4) = elfraera, muhammadzakiashshidiqi, mutiarazzahra, paskalisabhista
+    W02 (1) = NicoFathiRizqi
+
+rafifpriyo (1):
+    W03 (1) = mune-kyun
+
+rafipriyo (2):
+    W03 (1) = NicoFathiRizqi
+    W02 (1) = NicoFathiRizqi
+
+ragnarom-kun (7):
+    W03 (3) = myticalcat, NicoFathiRizqi, paskalisabhista
+    W02 (4) = NicoFathiRizqi, pragusga25, pramudiptha, qalbunsb
+
+rahadianpanji (7):
+    W03 (2) = mutiarazzahra, nakarz
+    W02 (5) = dafin678, orelar, paskalisabhista, qalbunsb, rafifpriyo
+
+raihanyx (8):
+    W03 (5) = nafhansyandana, nakarz, naufalpram, naufalrafiathl, nichoje
+    W02 (3) = pulsapaur, qosimd25, rakazet
+
+raissatito (5):
+    W03 (1) = naufalrafiathl
+    W02 (4) = pragusga25, pramudiptha, raihanyx, rakazet
+
+rakazet (13):
+    W03 (5) = nafhansyandana, nakarz, naufalpram, navalgaze, nichoje
+    W02 (8) = pramudiptha, pramudyawibisono, pulsapaur, qalbunsb, qosimd25, rahadianpanji, raihanyx, raissatito
+
+rakharayhan (6):
+    W03 (3) = navalgaze, orelar, rahadianpanji
+    W02 (3) = pramudyawibisono, rafifpriyo, Ragnarom-kun
+
+ramdhanfirdaus (7):
+    W03 (1) = pragusga25
+    W02 (6) = pulsapaur, qosimd25, Ragnarom-kun, raissatito, rakazet, rakharayhan
+
+rashadaziz (9):
+    W03 (6) = naufalrafiathl, nichoje, pramudiptha, pramudyawibisono, pulsapaur, rahadianpanji
+    W02 (3) = rahadianpanji, raihanyx, ramdhanfirdaus
+
+rasyidmi20 (5):
+    W03 (3) = najmialy, navalgaze, orelar
+    W02 (2) = andhikalfariz, Bimabara
+
+razitaa (6):
+    W03 (1) = orelar
+    W02 (5) = rafifpriyo, Ragnarom-kun, rahadianpanji, rakharayhan, rashadaziz
+
+reeve02 (7):
+    W03 (7) = pragusga25, pramudyawibisono, pulsapaur, qosimd25, Ragnarom-kun, rahadianpanji, rashadaziz
+
+reeyadono (6):
+    W03 (3) = pragusga25, pramudiptha, Ragnarom-kun
+    W02 (3) = ramdhanfirdaus, rcsenlia, reeve02
+
+reynaldi08 (1):
+    W02 (1) = raissatito
+
+reyzacaloh (2):
+    W03 (1) = pramudiptha
+    W02 (1) = razitaa
+
+rfauzan46 (10):
+    W03 (5) = pramudyawibisono, qosimd25, rafifpriyo, raihanyx, rakazet
+    W02 (5) = rakharayhan, ramdhanfirdaus, rashadaziz, rcsenlia, ReeyaDono
+
+rickyantowm (13):
+    W03 (7) = pulsapaur, qosimd25, rafifpriyo, raihanyx, raissatito, rakharayhan, rashadaziz
+    W02 (5) = rashadaziz, razitaa, rcsenlia, reeve02, ReeyaDono
+    W01 (1) = rfauzan46
+
+ridjkytgr (13):
+    W03 (7) = rafifpriyo, Ragnarom-kun, raissatito, rakazet, rakharayhan, ramdhanfirdaus, rashadaziz
+    W02 (5) = najmialy, razitaa, reeve02, reyzacaloh, rickyantowm
+    W01 (1) = rfauzan46
+
+rizkyca (7):
+    W03 (3) = raissatito, rakazet, rakharayhan
+    W02 (3) = ReeyaDono, rickyantowm, ridjkytgr
+    W01 (1) = rfauzan46
+
+rizqirzl (3):
+    W03 (2) = raihanyx, rcsenlia
+    W02 (1) = rickyantowm
+
+robert-adit-sukoco (4):
+    W03 (3) = ramdhanfirdaus, razitaa, reeve02
+    W02 (1) = rifqipr
+
+rreza00 (1):
+    W02 (1) = robert-adit-sukoco
+
+ryan-sujana (7):
+    W03 (2) = reeve02, ReeyaDono
+    W02 (5) = reyzacaloh, ridjkytgr, rizkyyjun, robert-adit-sukoco, rreza00
+
+ryanputraa (5):
+    W03 (1) = reynaldi08
+    W02 (4) = reyzacaloh, rizkyca, robert-adit-sukoco, rreza00
+
+sabynn (12):
+    W03 (5) = ramdhanfirdaus, razitaa, reeve02, reynaldi08, reyzacaloh
+    W02 (7) = rfauzan46, ridjkytgr, rifqipr, rizkyca, rizkyyjun, rreza00, ryanputraa
+
+serimanrnsa (4):
+    W03 (2) = rcsenlia, reynaldi08
+    W02 (2) = rifqipr, rizkyca
+
+spacesick (9):
+    W03 (5) = razitaa, rcsenlia, ReeyaDono, rickyantowm, ridjkytgr
+    W02 (4) = elfraera, rfauzan46, rizkyyjun, ryanputraa
+
+stevennovaryo (5):
+    W03 (1) = ReeyaDono
+    W02 (4) = ryan-sujana, sabynn, Spacesick, stephanusdario
+
+stevenwh15 (4):
+    W03 (1) = rickyantowm
+    W02 (3) = ryanputraa, serimanrnsa, stevennovaryo
+
+stndaru (12):
+    W03 (5) = reyzacaloh, rickyantowm, ridjkytgr, rizkyca, rizqirzl
+    W02 (7) = elfraera, ryan-sujana, sabynn, serimanrnsa, Spacesick, stephanusdario, stevenwh15
+
+syahdanputra (15):
+    W03 (7) = reyzacaloh, ridjkytgr, rizkyca, rizkyyjun, rizqirzl, robert-adit-sukoco, rreza00
+    W02 (8) = rfauzan46, ryan-sujana, sabynn, serimanrnsa, Spacesick, stevennovaryo, stevenwh15, stndaru
+
+tanpeep (4):
+    W03 (2) = rizkyyjun, ryanputraa
+    W02 (2) = stephanusdario, stevenwh15
+
+tantraluhur (1):
+    W03 (1) = rreza00
+
+taufiqulmawarid (2):
+    W03 (1) = rreza00
+    W02 (1) = tantraluhur
+
+teukufaiz (3):
+    W03 (3) = rizkyca, rreza00, ryanputraa
+
+thoriqaulia163 (4):
+    W03 (2) = rasyidmi20, rreza00
+    W02 (2) = andhikalfariz, Bimabara
+
+tiampremesti (1):
+    W03 (1) = soplanz
+
+tianpramesti (11):
+    W03 (7) = rizkyyjun, rizqirzl, rreza00, ryan-sujana, sabynn, serimanrnsa, stephanusdario
+    W02 (4) = najmialy, rasyidmi20, stevennovaryo, tanpeep
+
+trmazayal (10):
+    W03 (7) = najmialy, robert-adit-sukoco, rreza00, ryan-sujana, sabynn, soplanz, stephanusdario
+    W02 (3) = stndaru, tantraluhur, tianpramesti
+
+tsabitasarah (4):
+    W03 (1) = rreza00
+    W02 (3) = tanpeep, tantraluhur, trmazayal
+
+valordra (6):
+    W03 (4) = robert-adit-sukoco, rreza00, ryanputraa, soplanz
+    W02 (2) = stndaru, trmazayal
+
+veloraine (9):
+    W03 (5) = ryan-sujana, sabynn, serimanrnsa, Spacesick, stephanusdario
+    W02 (4) = tanpeep, taufiqulmawarid, tianpramesti, tsabitasarah
+
+vincentsuryakim (2):
+    W02 (2) = taufiqulmawarid, tsabitasarah
+
+virdianhrn (3):
+    W03 (1) = tanpeep
+    W02 (2) = veloraine, vnctkevin
+
+vnctkevin (12):
+    W03 (5) = serimanrnsa, Spacesick, stevenwh15, stndaru, tanpeep
+    W02 (7) = taufiqulmawarid, tianpramesti, trmazayal, tsabitasarah, veloraine, vincentsuryakim, virdianhrn
+
+whenwe177 (4):
+    W03 (1) = taufiqulmawarid
+    W02 (3) = veloraine, virdianhrn, vnctkevin
+
+whreen (5):
+    W03 (3) = Spacesick, stevenwh15, taufiqulmawarid
+    W02 (2) = virdianhrn, whenwe177
+
+winaldoamadea (2):
+    W03 (1) = stevenwh15
+    W02 (1) = vincentsuryakim
+
+yahyagolds23 (3):
+    W03 (2) = stndaru, tianpramesti
+    W02 (1) = valordra
+
+yudha-haris (7):
+    W03 (4) = stndaru, tantraluhur, teukufaiz, trmazayal
+    W02 (3) = valordra, vnctkevin, winaldoamadea
+
+yuniaharmulyati (6):
+    W03 (1) = tantraluhur
+    W02 (5) = thoriqaulia163, valordra, vincentsuryakim, whenwe177, winaldoamadea
+
+zetaprawira7 (11):
+    W03 (7) = tanpeep, tantraluhur, taufiqulmawarid, tianpramesti, trmazayal, tsabitasarah, valordra
+    W02 (4) = whenwe177, winaldoamadea, yudha-haris, yuniaharmulyati
+

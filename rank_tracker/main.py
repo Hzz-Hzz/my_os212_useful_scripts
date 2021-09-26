@@ -9,10 +9,7 @@ from requests.status_codes import codes
 """
 You might want to check whether your internet connection can access <username>.github.io/os212/
 with a reasonable time. If you encounter a connection error from this script, you need
-to re-check your connection. You might also want to use VPN (like warp VPN, etc) to speed it up.
-
-Misalnya, Telkomsel sepertinya bermasalah buat akses username.github.io, jadi mungkin perlu VPN buat
-pengguna telkomsel :' :(
+to re-check your connection.
 """
 
 
@@ -31,7 +28,8 @@ def main():
     print()
     print()
 
-    for voted_acc in result:
+    result_key_sorted = sorted(result.keys())
+    for voted_acc in result_key_sorted:
         weeks = sorted(result[voted_acc].keys(), reverse=True)
         total_vote = 0
 
@@ -52,7 +50,7 @@ def main():
 
     print()
     print()
-    print("DONE")
+    print("DONE. The result also has been saved to your disk")
 
 
 
@@ -122,7 +120,7 @@ def make_a_request(url, verify, timeout):
 voter = {}
 
 
-def get_voted():
+def get_voted():  # return the voted account as the key and the voters as a the value
 
     # key: the voted account. value: another dictionary <week:int, voters:list>
     ret = {}
@@ -146,7 +144,7 @@ def get_voted():
 def get_voted_multithreading():
     # key: the voted account. value: another dictionary <week:int, voters:list>
     ret = {}
-    MAX_NUM_OF_REQ_AT_A_TIME = 17
+    MAX_NUM_OF_REQ_AT_A_TIME = 19
 
     threads = {}  # key: the voter account, value: the thread
 
