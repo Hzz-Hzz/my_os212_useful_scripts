@@ -23,7 +23,7 @@ warnings.filterwarnings("ignore")
 def main():
     result = get_voted_multithreading()
 
-    file_update = open(strftime("update %d-%m-%Y %H-%M.txt"), 'w')
+    file_update = open(strftime("update %Y-%m-%d %H-%M.txt"), 'w')
 
     print()
     print()
