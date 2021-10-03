@@ -7,8 +7,8 @@ from requests.status_codes import codes
 
 
 """
-You might want to check whether your internet connection can access <username>.github.io/os212/
-with a reasonable time. If you encounter a connection error from this script, you need
+You might want to check if your internet connection can access <username>.github.io/os212/
+within a reasonable time. If you encounter a connection error from this script, you may need
 to re-check your connection.
 """
 
@@ -129,14 +129,16 @@ def get_voted():  # return the voted account as the key and the voters as a the 
         votes = get_votes(acc)
 
         for week in votes:
-            for voted_acc in votes[week]:
+            for voted_acc_dict in votes[week]:
+                voted_acc = voted_acc_dict['voted']
+                
                 if voted_acc not in ret:
                     ret[voted_acc] = {}
 
                 if week not in ret[voted_acc]:
                     ret[voted_acc][week] = []
 
-                ret[voted_acc][week].append(acc)
+                ret[voted_acc][week].append(f"{acc}[{voted_acc_dict['rank']}]")
     return ret
 
 
@@ -189,7 +191,8 @@ def process_the_threads(return_dict, threads_dict):
         # print(acc, thread, votes)
 
         for week in votes:
-            for voted_acc in votes[week]:
+            for voted_acc_dict in votes[week]:
+                voted_acc = voted_acc_dict['voted']
                 voted_acc = voted_acc.lower()
                 
                 if voted_acc not in ret:
@@ -198,16 +201,17 @@ def process_the_threads(return_dict, threads_dict):
                 if week not in ret[voted_acc]:
                     ret[voted_acc][week] = []
 
-                ret[voted_acc][week].append(acc)
-                
+                ret[voted_acc][week].append(f"{acc}[{voted_acc_dict['rank']}]")
     threads_dict.clear()
 
       
 
 def get_votes(voter_account, max_try_count=4, connection_time_out=10):
-    # returns a dict of <int, list>
+    # returns a dict of <int, list<dict>>
     # where the key is the week, and the list
-    # is a list of the voted people
+    # is a list a dict<string, string> that contains:
+    #       'voted': the voted person
+    #       'rank' : the voted person's rank
 
     url = f"http://{voter_account}.github.io/os212/TXT/myrank.txt"
     allowed_status = (codes.OK, codes.NOT_FOUND)
@@ -233,6 +237,8 @@ def get_votes(voter_account, max_try_count=4, connection_time_out=10):
     lines = text.split("\n")
     ret = {}
 
+    week_number_of_person = {}  # to track the rank of each week
+
     for line in lines:
         try:
             line = line.strip()
@@ -245,9 +251,16 @@ def get_votes(voter_account, max_try_count=4, connection_time_out=10):
                 week_num = int(split_line[1][1:])
                 if week_num not in ret:
                     ret[week_num] = []
+                    week_number_of_person[week_num] = 1
 
                 voted = split_line[2]
-                ret[week_num].append(voted)
+                ret[week_num].append(
+                    {
+                        'voted': voted,
+                        'rank': week_number_of_person[week_num]
+                    }
+                    )
+                week_number_of_person[week_num] += 1
         except Exception as e:
             print()
             print("------------ ERROR ------------")
