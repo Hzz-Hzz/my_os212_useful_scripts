@@ -146,7 +146,7 @@ def get_voted():  # return the voted account as the key and the voters as a the 
 def get_voted_multithreading():
     # key: the voted account. value: another dictionary <week:int, voters:list>
     ret = {}
-    MAX_NUM_OF_REQ_AT_A_TIME = 19
+    MAX_NUM_OF_REQ_AT_A_TIME = 20
 
     threads = {}  # key: the voter account, value: the thread
 
