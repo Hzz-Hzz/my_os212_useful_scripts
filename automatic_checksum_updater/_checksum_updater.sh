@@ -23,7 +23,7 @@ echo ''  >> $script_log_path
 
 
 
-FILES="my*.txt my*.sh"
+FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 
 
